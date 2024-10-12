@@ -1,13 +1,8 @@
-2024-10-10 21:55:58,764 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/ASSIGNMENT 7.docx -> /Users/mac/Desktop/Veeam/replica/./ASSIGNMENT 7.docx
-2024-10-10 21:56:58,775 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/Screenshot 2024-09-07 at 22.32.58.png -> /Users/mac/Desktop/Veeam/replica/./Screenshot 2024-09-07 at 22.32.58.png
-2024-10-10 21:59:58,855 - INFO - Removed file: /Users/mac/Desktop/Veeam/replica/Screenshot 2024-09-07 at 22.32.58.png
-2024-10-10 22:06:39,001 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/~$SIGNMENT 7.docx -> /Users/mac/Desktop/Veeam/replica/./~$SIGNMENT 7.docx
-2024-10-10 22:06:59,020 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/ASSIGNMENT 7.docx -> /Users/mac/Desktop/Veeam/replica/./ASSIGNMENT 7.docx
-2024-10-10 22:06:59,020 - INFO - Removed file: /Users/mac/Desktop/Veeam/replica/~$SIGNMENT 7.docx
-2024-10-10 22:11:46,270 - INFO - Created replica folder: /Users/mac/Desktop/Veeam/replica
-2024-10-10 22:11:46,271 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/ASSIGNMENT 7.docx -> /Users/mac/Desktop/Veeam/replica/./ASSIGNMENT 7.docx
-2024-10-12 15:28:44,729 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/Assignment 8.pdf -> /Users/mac/Desktop/Veeam/replica/./Assignment 8.pdf
-2024-10-12 15:29:24,744 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/.DS_Store -> /Users/mac/Desktop/Veeam/replica/./.DS_Store
-2024-10-12 15:29:24,745 - INFO - Removed file: /Users/mac/Desktop/Veeam/replica/Assignment 8.pdf
-2024-10-12 15:29:24,746 - INFO - Removed file: /Users/mac/Desktop/Veeam/replica/ASSIGNMENT 7.docx
-2024-10-12 15:30:04,753 - INFO - Copied file: /Users/mac/Desktop/Veeam/source/Prediction_Dataset.csv -> /Users/mac/Desktop/Veeam/replica/./Prediction_Dataset.csv
+2024-10-12 16:57:29,028 - INFO - Copied file: /Users/mac/Desktop/Veeam-Task/source/Aalto-Summer-Job-Day-202410325.JPG -> /Users/mac/Desktop/Veeam-Task/replica/./Aalto-Summer-Job-Day-202410325.JPG
+2024-10-12 17:01:09,361 - INFO - Removed file: /Users/mac/Desktop/Veeam-Task/replica/Assignment 8.pdf
+2024-10-12 17:01:09,362 - INFO - Removed file: /Users/mac/Desktop/Veeam-Task/replica/Aalto-Summer-Job-Day-202410325.JPG
+2024-10-12 17:01:09,363 - INFO - Removed file: /Users/mac/Desktop/Veeam-Task/replica/ASSIGNMENT 7.pdf
+2024-10-12 17:02:18,133 - INFO - Removed file: /Users/mac/Desktop/Veeam-Task/replica/Prediction_Dataset.csv
+2024-10-12 17:02:38,140 - INFO - Copied file: /Users/mac/Desktop/Veeam-Task/source/day1.png -> /Users/mac/Desktop/Veeam-Task/replica/./day1.png
+2024-10-12 17:02:58,148 - INFO - Copied file: /Users/mac/Desktop/Veeam-Task/source/cleaned_data.csv -> /Users/mac/Desktop/Veeam-Task/replica/./cleaned_data.csv
+2024-10-12 17:04:38,199 - INFO - Removed file: /Users/mac/Desktop/Veeam-Task/replica/day1.png
